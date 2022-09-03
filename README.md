@@ -10,6 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juank27&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
 
 <p align="center">
-  <a href="https://github.com/juank27">
-    <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
+ ![](https://komarev.com/ghpvc/?username=juank27&color=blue)
 </p>
