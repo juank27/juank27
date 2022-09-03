@@ -1,12 +1,8 @@
 # <p align="center">Juan Carlos Ruiz Montaño</p>
-
-
-
 <p align="center">
   <a href="https://github.com/juank27/juank27"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Ingenieria+de+Sistemas;Desarrollador+Backend;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta" style="heigt:40vh weigth:70vh" >
   </a>
 </p>
-
 
 ## Sobre mi
 Soy estudiante de ultimo semestre, estudiante activo
