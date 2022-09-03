@@ -10,5 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juank27&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
 
 <p align="center">
- ![](https://komarev.com/ghpvc/?username=juank27&color=blue)
+![](https://hit.yhype.me/github/profile?user_id=47526267)
 </p>
