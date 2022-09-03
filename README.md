@@ -10,5 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juank27&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
 
 
-![views](https://hit.yhype.me/github/profile?user_id=47526267)
+![](https://hit.yhype.me/github/profile?user_id=47526267)
 
