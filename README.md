@@ -12,6 +12,7 @@
 ## ⌨️ Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juank27&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
 
-
-![](https://hit.yhype.me/github/profile?user_id=47526267)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=juank27&&style=flat-square" align="center" />
+</div>  
+ 
