@@ -1,19 +1,28 @@
 # <p align="center">Juan Carlos Ruiz Montaño</p>
 
+
+
 <p align="center">
-  <a href="https://github.com/juank27/juank27"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Ingenieria+de+Sistemas;Desarrollador+Backend;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta"></a>
+  <a href="https://github.com/juank27/juank27"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Ingenieria+de+Sistemas;Desarrollador+Backend;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta" style="heigt:20vh weigth:70vh" ></a>
 </p>
 
-<br/>  
+# <p align="center" style="height=100px">![foto2](https://user-images.githubusercontent.com/47526267/188250783-904b0114-59db-4506-b372-0bb6655af18e.png)</p>
 
-## My Skill Set  
+## Sobre mi
+Soy estudiante de ultimo semestre, estudiante activo
+en Platzi, un apasionado por la tecnología y la
+programación web, enfocado en el desarrollo
+Backend.
 
+</br>
 
-### Backend  
+## My Skill Set
 
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+### Backend
+
+<div align="center">
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -26,16 +35,22 @@
 
 <br/>
 
-## 📈 GitHub Stats
+<div align="center">
+
+### 📈 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juank27&show_icons=true&theme=tokyonight)
 
-## ⌨️ Languages
+### ⌨️ Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juank27&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+</div>
 
-## Connect with me
+<br/>
+<div align="center">
 
+	Connect with me
+</div>
 <div align="center">
 <a href="https://github.com/juank27" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
