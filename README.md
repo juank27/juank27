@@ -5,7 +5,7 @@
 </p>
 
 ## Sobre mi
-Soy estudiante de ultimo semestre, estudiante activo
+Soy ingeniero de sistemas, estudiante activo
 en Platzi, un apasionado por la tecnología y la
 programación web, enfocado en el desarrollo
 Backend.
